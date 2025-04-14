@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>AI Resume Builder - README</title>
 </head>
 <body>
   <h1>🚀 AI Resume Builder</h1>
@@ -35,8 +34,8 @@
   <h2>🛠️ Getting Started</h2>
 
   <h3>1. Clone the repo</h3>
-  <pre><code>git clone https://github.com/
-cd </code></pre>
+  <pre><code>git clone [https://github.com/](https://github.com/Dhruv2430/IDT)
+</code></pre>
 
   <h3>2. Install dependencies</h3>
   <pre><code>npm install</code></pre>
